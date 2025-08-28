@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html>
-<script>
 let age = 20;
 function displayAge() {
     console.log("Current Age:", age);
@@ -14,5 +11,3 @@ function changeAge(newAge) {
 displayAge();    
 changeAge(25);     
 displayAge();
-</script>    
-</html>
